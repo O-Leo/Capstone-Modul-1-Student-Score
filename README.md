@@ -1,12 +1,12 @@
-Student Score Program
+## Student Score Program
 
 By Fikri Bahiransyah JCDS 0308
-Context
+### Context
 
 This project is an implementation of a University program to manipulate student score using Python. This program allows users to display and manipulate student data, lecture data, and courses data. The purpose of this program is to provide user experience on managing data in university environment.
 Business Task
 
-Key Feature
+### Key Feature
 
 •  Add Data (Students, Lectures, and Courses)
 
@@ -26,7 +26,7 @@ Key Feature
 
 •	Provide shorting system based on student rank
 
-Objectives
+### Objectives
 
 •	Provide solution to manage student/lecture/course data
 
@@ -34,7 +34,7 @@ Objectives
 
 •	As one of the bootcamp assignment project
 
-Stakeholder
+### Stakeholder
 
 •	End Users : Students and lectures for managing their academic data
 
@@ -42,7 +42,7 @@ Stakeholder
 
 •	Academic : Academic institute for researching and utilizing program for managing the academic data
 
-Limitations
+### Limitations
 This projects has several limitations to consider :
 
 •	Dummy Data : The program only use small dummy data for study purposes
@@ -55,14 +55,14 @@ This projects has several limitations to consider :
 
 This data will be used to create a small university database that users can search. Ensure this data is prepared before running the program.
  
-User Instructions
-Running Program
+### User Instructions
+#### Running Program
 1.	Have python installed
 2.	(for Windows / Mac) Have python interface installed (Anaconda, Visual Studio Code, Spyder, etc)
 3.	Open Capston 1 Data Nilai Fikri Data Science.py or run code below
    python Capston 1 Data Nilai Fikri Data Science.py
 
-Contribution
+### Contribution
 
 Contributions to this project are highly appreciated. If you wish to contribute or reviews this program, please create a pull request.
 Purpose of this README is to helps reader on building a professional portfolio for Student Scoring project. Be sure to include user instructions, a license, and contribution guidelines as needed for your project.
